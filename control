@@ -1,0 +1,9 @@
+Package: pro.fastbuilder.reborn
+Name: FastBuilder Reborn
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: FastBuilder reborn
+Maintainer: LNSSPsd
+Author: LNSSPsd
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)

@@ -1,0 +1,4 @@
+packages/
+.theos/
+lib/libpng.a
+
